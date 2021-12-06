@@ -1,0 +1,11 @@
+0 Cat
+1 Deer
+2 Elephant
+3 Bird
+4 Fox
+5 Zebra
+6 Bear
+7 Giraffe
+8 Lion
+9 Horse
+10 Tiger
