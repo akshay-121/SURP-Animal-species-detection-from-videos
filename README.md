@@ -31,5 +31,8 @@ It will classify and annotate the particular image based on the classes on which
 
 ### Training 
 
+Create a ```dataset``` directory and within that directory create directories corresponding to different animal species/classes (```Fox``` for instance).<br>
+Structure of ```Fox``` - It will contain images and labels in 2 directories named ```images``` and ```labels``` respectively. Labelling of image can be done using tools like _labelimg_ with format (xmin, ymin, height, width).
+
 ## Future work
 Currently it needs around 100 annotated images of the particular class for training to get good results. We are trying to make it learn more accurately even on 10s of images of a class. 
